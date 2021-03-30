@@ -1,0 +1,13 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

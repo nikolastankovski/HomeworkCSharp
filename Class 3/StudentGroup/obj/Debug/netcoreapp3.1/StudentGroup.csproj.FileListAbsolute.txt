@@ -1,0 +1,13 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\bin\Debug\netcoreapp3.1\PrintNames.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\bin\Debug\netcoreapp3.1\PrintNames.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\bin\Debug\netcoreapp3.1\PrintNames.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\bin\Debug\netcoreapp3.1\PrintNames.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\bin\Debug\netcoreapp3.1\PrintNames.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\bin\Debug\netcoreapp3.1\PrintNames.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\obj\Debug\netcoreapp3.1\PrintNames.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\obj\Debug\netcoreapp3.1\PrintNames.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\obj\Debug\netcoreapp3.1\PrintNames.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\obj\Debug\netcoreapp3.1\PrintNames.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\obj\Debug\netcoreapp3.1\PrintNames.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\obj\Debug\netcoreapp3.1\PrintNames.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\PrintNames\obj\Debug\netcoreapp3.1\PrintNames.genruntimeconfig.cache

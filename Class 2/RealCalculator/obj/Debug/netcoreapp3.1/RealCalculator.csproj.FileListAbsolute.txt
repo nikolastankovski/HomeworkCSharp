@@ -1,0 +1,13 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\bin\Debug\netcoreapp3.1\RealCalculator.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\bin\Debug\netcoreapp3.1\RealCalculator.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\bin\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\bin\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\obj\Debug\netcoreapp3.1\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\obj\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\obj\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\obj\Debug\netcoreapp3.1\RealCalculator.genruntimeconfig.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Class2Homeworks\obj\Debug\netcoreapp3.1\RealCalculator.csprojAssemblyReference.cache

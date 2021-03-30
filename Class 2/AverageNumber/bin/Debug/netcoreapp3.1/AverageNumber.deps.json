@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AverageNumber/1.0.0": {
+        "dependencies": {
+          "RealCalculator": "1.0.0"
+        },
+        "runtime": {
+          "AverageNumber.dll": {}
+        }
+      },
+      "RealCalculator/1.0.0": {
+        "runtime": {
+          "RealCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AverageNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

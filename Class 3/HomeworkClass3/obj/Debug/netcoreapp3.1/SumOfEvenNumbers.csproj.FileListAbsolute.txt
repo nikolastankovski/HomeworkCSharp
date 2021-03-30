@@ -1,0 +1,13 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\bin\Debug\netcoreapp3.1\SumOfEvenNumbers.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\bin\Debug\netcoreapp3.1\SumOfEvenNumbers.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\bin\Debug\netcoreapp3.1\SumOfEvenNumbers.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\bin\Debug\netcoreapp3.1\SumOfEvenNumbers.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\bin\Debug\netcoreapp3.1\SumOfEvenNumbers.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\bin\Debug\netcoreapp3.1\SumOfEvenNumbers.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\obj\Debug\netcoreapp3.1\SumOfEvenNumbers.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\obj\Debug\netcoreapp3.1\SumOfEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\obj\Debug\netcoreapp3.1\SumOfEvenNumbers.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\obj\Debug\netcoreapp3.1\SumOfEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\obj\Debug\netcoreapp3.1\SumOfEvenNumbers.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\obj\Debug\netcoreapp3.1\SumOfEvenNumbers.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 3\HomeworkClass3\obj\Debug\netcoreapp3.1\SumOfEvenNumbers.genruntimeconfig.cache
