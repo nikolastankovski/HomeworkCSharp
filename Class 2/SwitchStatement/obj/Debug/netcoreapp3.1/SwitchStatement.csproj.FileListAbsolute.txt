@@ -1,0 +1,12 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.genruntimeconfig.cache

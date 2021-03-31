@@ -1,0 +1,12 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\bin\Debug\netcoreapp3.1\Compare2Numbers.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\bin\Debug\netcoreapp3.1\Compare2Numbers.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\bin\Debug\netcoreapp3.1\Compare2Numbers.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\bin\Debug\netcoreapp3.1\Compare2Numbers.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\bin\Debug\netcoreapp3.1\Compare2Numbers.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\bin\Debug\netcoreapp3.1\Compare2Numbers.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\obj\Debug\netcoreapp3.1\Compare2Numbers.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\obj\Debug\netcoreapp3.1\Compare2Numbers.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\obj\Debug\netcoreapp3.1\Compare2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\obj\Debug\netcoreapp3.1\Compare2Numbers.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\obj\Debug\netcoreapp3.1\Compare2Numbers.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 2\Compare2Numbers\obj\Debug\netcoreapp3.1\Compare2Numbers.genruntimeconfig.cache
