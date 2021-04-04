@@ -1,0 +1,13 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.genruntimeconfig.cache
