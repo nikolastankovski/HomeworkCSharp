@@ -27,7 +27,7 @@ namespace CarExercise
 
                 Car winner = Car.RaceCars(selectedCars);
                 Console.WriteLine("");
-                Console.WriteLine($"The winner is {winner.Driver.Name}, driving the {winner.Model}, top speed {winner.CalculateSpeed()}");
+                Console.WriteLine($"The winner is {winner.Driver.Name}, driving the {winner.Model}, driving at {winner.CalculateSpeed()} km/h");
                 Console.WriteLine("");
 
                 Console.Write("Do you want to race again? (Y/N): ");
