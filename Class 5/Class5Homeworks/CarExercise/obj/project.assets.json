@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\HomeworkCSharp\\Class 5\\Class5Homeworks\\CarExercise\\CarExercise.csproj",
+      "projectUniqueName": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\Class 5\\Class5Homeworks\\CarExercise\\CarExercise.csproj",
       "projectName": "CarExercise",
-      "projectPath": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\HomeworkCSharp\\Class 5\\Class5Homeworks\\CarExercise\\CarExercise.csproj",
+      "projectPath": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\Class 5\\Class5Homeworks\\CarExercise\\CarExercise.csproj",
       "packagesPath": "C:\\Users\\stank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\HomeworkCSharp\\Class 5\\Class5Homeworks\\CarExercise\\obj\\",
+      "outputPath": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\Class 5\\Class5Homeworks\\CarExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stank\\AppData\\Roaming\\NuGet\\NuGet.Config",
