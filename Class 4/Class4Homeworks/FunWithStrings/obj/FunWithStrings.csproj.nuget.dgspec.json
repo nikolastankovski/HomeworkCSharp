@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\HomeworkCSharp\\Class 4\\Class4Homeworks\\FunWithStrings\\FunWithStrings.csproj": {}
+    "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\Class 4\\Class4Homeworks\\FunWithStrings\\FunWithStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\HomeworkCSharp\\Class 4\\Class4Homeworks\\FunWithStrings\\FunWithStrings.csproj": {
+    "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\Class 4\\Class4Homeworks\\FunWithStrings\\FunWithStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\HomeworkCSharp\\Class 4\\Class4Homeworks\\FunWithStrings\\FunWithStrings.csproj",
+        "projectUniqueName": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\Class 4\\Class4Homeworks\\FunWithStrings\\FunWithStrings.csproj",
         "projectName": "FunWithStrings",
-        "projectPath": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\HomeworkCSharp\\Class 4\\Class4Homeworks\\FunWithStrings\\FunWithStrings.csproj",
+        "projectPath": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\Class 4\\Class4Homeworks\\FunWithStrings\\FunWithStrings.csproj",
         "packagesPath": "C:\\Users\\stank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\HomeworkCSharp\\Class 4\\Class4Homeworks\\FunWithStrings\\obj\\",
+        "outputPath": "C:\\Users\\stank\\Google Drive\\SEDC\\5. C# Basic\\Homework\\Class 4\\Class4Homeworks\\FunWithStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stank\\AppData\\Roaming\\NuGet\\NuGet.Config",

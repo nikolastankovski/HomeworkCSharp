@@ -39,7 +39,6 @@ namespace FunWithStrings
             }
             Console.WriteLine(string.Join(" ", onlyWordsArray));
         }
-
         static void ReverseString(string text) 
         {
             char[] charsReverseString = text.ToCharArray();
@@ -114,7 +113,7 @@ namespace FunWithStrings
             string[] splittedText = text.Split(" ");
             string joinedText = string.Join("", splittedText);
 
-            char mostUsedCharacter = '.';
+            char mostUsedCharacter = ' ';
             int timesCharactedUsed = 0;
 
             for (int i = 0; i < joinedText.Length; i++)

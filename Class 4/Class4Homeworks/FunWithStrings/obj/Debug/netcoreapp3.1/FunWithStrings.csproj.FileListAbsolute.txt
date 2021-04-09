@@ -11,3 +11,16 @@ C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Cla
 C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.dll
 C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.pdb
 C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\HomeworkCSharp\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.genruntimeconfig.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 4\Class4Homeworks\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.genruntimeconfig.cache
