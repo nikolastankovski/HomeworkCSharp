@@ -22,7 +22,7 @@ namespace ManagementApp
                 new Contractor("Stefan", "Stefanovski")
             };
 
-            (Manager[], Contractor[], Sales[]) company = (managers, contractors, sales);
+            var company = (managers, contractors, sales);
 
             Employee[] employees = new Employee[0];
           
