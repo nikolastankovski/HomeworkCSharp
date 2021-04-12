@@ -10,3 +10,16 @@ C:\Users\stank\source\repos\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\
 C:\Users\stank\source\repos\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.dll
 C:\Users\stank\source\repos\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.pdb
 C:\Users\stank\source\repos\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.genruntimeconfig.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\bin\Debug\netcoreapp3.1\CarExercise.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 5\Class5Homeworks\CarExercise\obj\Debug\netcoreapp3.1\CarExercise.genruntimeconfig.cache

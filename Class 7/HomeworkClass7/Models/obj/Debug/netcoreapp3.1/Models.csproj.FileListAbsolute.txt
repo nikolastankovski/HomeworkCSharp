@@ -1,0 +1,9 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache

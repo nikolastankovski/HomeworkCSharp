@@ -1,0 +1,16 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\bin\Debug\netcoreapp3.1\ManagementApp.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\bin\Debug\netcoreapp3.1\ManagementApp.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\bin\Debug\netcoreapp3.1\ManagementApp.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\bin\Debug\netcoreapp3.1\ManagementApp.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\bin\Debug\netcoreapp3.1\ManagementApp.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\bin\Debug\netcoreapp3.1\ManagementApp.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\obj\Debug\netcoreapp3.1\ManagementApp.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\obj\Debug\netcoreapp3.1\ManagementApp.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\obj\Debug\netcoreapp3.1\ManagementApp.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\obj\Debug\netcoreapp3.1\ManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\obj\Debug\netcoreapp3.1\ManagementApp.csproj.CopyComplete
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\obj\Debug\netcoreapp3.1\ManagementApp.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\obj\Debug\netcoreapp3.1\ManagementApp.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 7\HomeworkClass7\ManagementApp\obj\Debug\netcoreapp3.1\ManagementApp.genruntimeconfig.cache
