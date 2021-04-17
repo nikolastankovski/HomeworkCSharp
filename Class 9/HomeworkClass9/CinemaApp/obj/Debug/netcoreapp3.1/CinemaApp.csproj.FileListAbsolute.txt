@@ -1,0 +1,26 @@
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\bin\Debug\netcoreapp3.1\CinemaApp.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\bin\Debug\netcoreapp3.1\CinemaApp.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\bin\Debug\netcoreapp3.1\CinemaApp.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\bin\Debug\netcoreapp3.1\CinemaApp.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\bin\Debug\netcoreapp3.1\CinemaApp.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\bin\Debug\netcoreapp3.1\CinemaApp.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\obj\Debug\netcoreapp3.1\CinemaApp.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\obj\Debug\netcoreapp3.1\CinemaApp.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\obj\Debug\netcoreapp3.1\CinemaApp.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\obj\Debug\netcoreapp3.1\CinemaApp.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\obj\Debug\netcoreapp3.1\CinemaApp.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\obj\Debug\netcoreapp3.1\CinemaApp.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\School Work\class 9 (error handling)\Class9\Cinema\obj\Debug\netcoreapp3.1\CinemaApp.genruntimeconfig.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\bin\Debug\netcoreapp3.1\CinemaApp.exe
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\bin\Debug\netcoreapp3.1\CinemaApp.deps.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\bin\Debug\netcoreapp3.1\CinemaApp.runtimeconfig.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\bin\Debug\netcoreapp3.1\CinemaApp.runtimeconfig.dev.json
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\bin\Debug\netcoreapp3.1\CinemaApp.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\bin\Debug\netcoreapp3.1\CinemaApp.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.csprojAssemblyReference.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.AssemblyInfoInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.AssemblyInfo.cs
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.csproj.CoreCompileInputs.cache
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.dll
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.pdb
+C:\Users\stank\Google Drive\SEDC\5. C# Basic\Homework\Class 9\HomeworkClass9\CinemaApp\obj\Debug\netcoreapp3.1\CinemaApp.genruntimeconfig.cache
